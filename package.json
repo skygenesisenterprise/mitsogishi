@@ -1,7 +1,7 @@
 {
-  "name": "zenthcloud",
+  "name": "mitsogishi",
   "version": "1.0.0",
-  "description": "An open-source, sovereign and ethical cloud platform built for transparency, control, and modular infrastructure.",
+  "description": "A modern European marketplace built for seamless digital commerce.",
   "private": true,
   "type": "module",
   "workspaces": [
